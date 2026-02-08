@@ -4,3 +4,5 @@ requests
 flask
 psutil
 PyJWT
+protobuf
+protobuf_decoder
