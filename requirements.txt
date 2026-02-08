@@ -1,9 +1,1 @@
-Flask[async]
-requests
-aiohttp
-psutil
-gunicorn
-googleapis-common-protos
 pycryptodome
-protobuf
-Werkzeug
