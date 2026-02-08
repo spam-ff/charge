@@ -1,6 +1,7 @@
 Flask[async]
 requests
 aiohttp
+gunicorn
 googleapis-common-protos
 pycryptodome
 protobuf
