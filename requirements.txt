@@ -1,8 +1,11 @@
-gunicorn
 Flask
 requests
-PyJWT
 pycryptodome
 protobuf
-urllib3
-cryptography
+google
+Werkzeug
+httpx
+flask-cors
+cachetools
+PyJWT
+Pillow
