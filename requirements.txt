@@ -1,8 +1,11 @@
-pycryptodome
-gunicorn
+Flask
 requests
-flask
-psutil
-PyJWT
+pycryptodome
 protobuf
-protobuf_decoder
+google
+Werkzeug
+httpx
+flask-cors
+cachetools
+PyJWT
+Pillow
